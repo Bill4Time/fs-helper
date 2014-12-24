@@ -7,7 +7,7 @@
     "fs"
   ],
   "author": "Logan Knecht <loganknecht@gmail.com>",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -33,7 +33,7 @@
       "email": "jeremydiviney@gmail.com"
     },
     {
-      "name": "winhandelj",
+      "name": "windhandelj",
       "email": "jeff@goaldriven.com"
     }
   ]
