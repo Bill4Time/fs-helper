@@ -92,9 +92,9 @@ This takes in a directory path to search as well as an array of file extensions 
 Directory Structure:  
 /Users/username/node project/  
 |__directories  
-&nbsp;&nbsp;&nbsp;&nbsp;|__example.txt
-&nbsp;&nbsp;&nbsp;&nbsp;|__example.html
-&nbsp;&nbsp;&nbsp;&nbsp;|__example.css
+&nbsp;&nbsp;&nbsp;&nbsp;|__example.txt  
+&nbsp;&nbsp;&nbsp;&nbsp;|__example.html  
+&nbsp;&nbsp;&nbsp;&nbsp;|__example.css  
   
 ```javascript
 var fsHelper = require('fs-helper');
