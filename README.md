@@ -78,8 +78,8 @@ The result of this operation is that subdirectories will contain the paths:
 This returns the difference in the root_directory vs the subdirectory_path. This is done by getting the top most directory name of the subdirectory path and identifying where that exists in the root directory's path. Then the path from that location to the leaf directory is returned.
 
 #### Example Usage
-root: /Users/username/node project/public/templates
-subdirectory: /Users/username/node project/public/public/templates/siteVersions/index.hbs 
+root: /Users/username/node project/public/templates  
+subdirectory: /Users/username/node project/public/public/templates/siteVersions/index.hbs  
 
 The result of this operation is a string that's returned.
 - templates/siteVerions/index.hbs
