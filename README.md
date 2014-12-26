@@ -4,6 +4,15 @@
 
 This is a node module created in order help provide additonal functions for commonly performed file system operations.
 
+## Installation
+```javascript
+// to install in the local directory
+npm install fs-helper
+
+// to install in the local directory and save to the package.json
+npm install fs-helper --save
+```
+
 ## Methods
 
 ### getDirPathsRecursivelyByNameSync(current_directory, subdirectory_names, [subdirectories_found])
